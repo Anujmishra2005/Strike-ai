@@ -1,0 +1,25 @@
+@keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  .rotating {
+    animation: spin 1s linear infinite; /* Adjust timing and repetition as needed */
+  }
+  
+  .loginbutton{
+    color:"red";
+  }
+  #cardspot {
+    width: 24rem; /* Default width */
+  }
+  
+  @media (max-width: 400px) {
+    #cardspot {
+      width: 21rem; /* Width for screens less than 350px */
+    }
+  }
