@@ -1,5 +1,5 @@
 
-# 🎧 To all the music listeners out there, this one's for you!
+# 🎧 To all the music listeners out there, this one's for you
 
 Welcome to this awesome project where music and code collide! Whether you're here to explore, contribute, or just vibe to some cool tunes, you're in the right place.
 
