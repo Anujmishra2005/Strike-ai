@@ -88,7 +88,7 @@ We welcome contributions! Here’s how you can help:
 4. **Make Your Changes:** Code away and make your changes.
 5. **Commit Your Changes:** Once you're happy with your work, commit your changes.
    ```bash
-   git commit -m "Add your descriptive commit message"
+   git commit -m "Add your commit message"
    ```
 6. **Push to Your Fork:** Push your changes to your forked repository.
    ```bash
